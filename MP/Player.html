@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+	<title>Работай</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script type="text/javascript" src="pl.js"></script>
+</head>
+<body>
+
+<div id="box">
+	<video id="video" width="630" height="450" src="1.mp4" onClick="PlayPouse()" poster="maxresdefault.jpg" ontimeupdate="timetable()"></video>
+	<input type="range" id="volum4ik" value="100" max="100" min="0" onMouseMove="MinusYshi()">
+	<input type="button" class="button" id="PP" value="►" onClick="PlayPouse()">
+	<input type="button" class="button" id="Stop" value="■" onClick="StopThis()">
+	<input type="range" id="range" style="width:400px" onMouseDown="stopAnime()" onMouseUp="playAgain()">
+	<span id="timeshow"> 0.0 / 0.0</span>
+	<input type="button" class="button" id="x1" value="x1" onClick="SpeedNormal()">
+	<input type="button" class="button" id="x2" value="x2" onClick="SpeedUp()">
+	<input type="button" class="button" id="x0" value="x0.5" onClick="SpeedDown()">
+	<input type="button" class="button" id="full" value="↔" onClick="FullPlease()">
+</div>
+
+</body>
+
+</HTML>
+

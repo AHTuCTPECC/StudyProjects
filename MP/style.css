@@ -1,0 +1,230 @@
+html{
+   background: url("https://cdn.wallpapersafari.com/64/85/W96mw4.jpg");
+       height: auto;
+       width: auto;
+}
+
+#volum4ik {
+     -webkit-appearance: slider-vertical;
+     width: 10px;
+     height: 310px;
+     border: 4px solid silver;
+     border-radius: 8px;
+      background: #191970;
+     overflow: hidden;
+     position: absolute;
+     left: 644px;
+     top: 20px;
+}
+
+#volum4ik::-webkit-slider-thumb {
+  webkit-appearance: none;
+  width:15px;
+  height:15px;
+  border: 1px solid silver;
+  border-radius: 8px;
+  background-image: linear-gradient(#dedede, #0000FF);
+}
+
+video {
+   position: absolute;
+   top: -30px;
+   left: 15px; 
+
+}
+
+input {
+position: absolute;
+top: 380px;
+}
+
+#PP{
+   left: 1px;
+}
+
+#Stop{
+
+   left: 25px;
+}
+
+#range{
+   top: 378px;
+   left: 48px
+}
+
+#x1{
+   left: 460px;
+}
+
+#x2{
+   left: 490px;
+}
+
+#x0{
+   left: 520px;
+}
+
+span {
+   position: absolute;
+   top: 380px;
+   left: 563px;
+   border: 1px solid #4B0082;
+   background-image: linear-gradient(#dedede, #191970);
+   color: #DC143C;
+   font-size: 17px;
+}
+
+#full{
+   left: 635px;
+}
+
+input {
+   font-size: 15px;
+   border: 1px solid #4B0082;
+   background-image: linear-gradient(#dedede, #191970);
+   border-radius: 2px;
+   color: #DC143C;
+}
+
+
+#box{
+   width: 670px;
+   height: 460px;
+   border: 2px double silver;
+   border-radius: 17px;
+   background: url(http://zoozel.ru/gallery/images/1516340_ekvalaizer.jpg);
+   background-size: 100%;
+   position: absolute;
+   top: 220px;
+   left: 20px;
+}
+
+#range {  
+  -webkit-appearance: none;
+          appearance: none;
+  padding: 0;
+   border: 1px solid #4B0082;
+  border-radius: 2px;
+  box-shadow: inset 0 1px #ccc, inset 0 1px 1px #575555, inset 0 -2px #ccc;
+   background: #191970;
+  overflow: hidden;
+}
+
+#range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width:15px;
+  height:15px;
+  border: 1px solid silver;
+  border-radius: 8px;
+  background-image: linear-gradient(#dedede, #0000FF);
+  box-shadow:
+   -5px 0 #4B0082,
+   -10px 0 #4B0082,
+   -15px 0 #4B0082,
+   -20px 0 #4B0082,
+   -25px 0 #4B0082,
+   -30px 0 #4B0082,
+   -35px 0 #4B0082,
+   -40px 0 #4B0082,
+   -45px 0 #4B0082,
+   -50px 0 #4B0082,
+   -55px 0 #4B0082,
+   -60px 0 #4B0082,
+   -65px 0 #4B0082,
+   -70px 0 #4B0082,
+   -75px 0 #4B0082,
+   -80px 0 #4B0082,
+   -85px 0 #4B0082,
+   -90px 0 #4B0082,
+   -95px 0 #4B0082,
+   -100px 0 #4B0082,
+   -105px 0 #4B0082,
+   -110px 0 #4B0082,
+   -115px 0 #4B0082,
+   -120px 0 #4B0082,
+   -125px 0 #4B0082,
+   -130px 0 #4B0082,
+   -135px 0 #4B0082,
+   -140px 0 #4B0082,
+   -145px 0 #4B0082,
+   -150px 0 #4B0082,
+   -155px 0 #4B0082,
+   -160px 0 #4B0082,
+   -165px 0 #4B0082,
+   -170px 0 #4B0082,
+   -175px 0 #4B0082,
+   -180px 0 #4B0082,
+   -185px 0 #4B0082,
+   -190px 0 #4B0082,
+   -195px 0 #4B0082,
+   -200px 0 #4B0082,
+   -205px 0 #4B0082,
+   -210px 0 #4B0082,
+   -215px 0 #4B0082,
+   -220px 0 #4B0082,
+   -225px 0 #4B0082,
+   -230px 0 #4B0082,
+   -235px 0 #4B0082,
+   -240px 0 #4B0082,
+   -245px 0 #4B0082,
+   -250px 0 #4B0082,
+   -255px 0 #4B0082,
+   -260px 0 #4B0082,
+   -265px 0 #4B0082,
+   -270px 0 #4B0082,
+   -275px 0 #4B0082,
+   -280px 0 #4B0082,
+   -285px 0 #4B0082,
+   -290px 0 #4B0082,
+   -295px 0 #4B0082,
+   -300px 0 #4B0082,
+   -305px 0 #4B0082,
+   -310px 0 #4B0082,
+   -315px 0 #4B0082,
+   -320px 0 #4B0082,
+   -325px 0 #4B0082,
+   -330px 0 #4B0082,
+   -335px 0 #4B0082,
+   -340px 0 #4B0082,
+   -345px 0 #4B0082,
+   -350px 0 #4B0082,
+   -355px 0 #4B0082,
+   -360px 0 #4B0082,
+   -365px 0 #4B0082,
+   -370px 0 #4B0082,
+   -375px 0 #4B0082,
+   -380px 0 #4B0082,
+   -385px 0 #4B0082,
+   -390px 0 #4B0082,
+   -395px 0 #4B0082,
+   -400px 0 #4B0082,
+   -405px 0 #4B0082,
+   -410px 0 #4B0082,
+   -415px 0 #4B0082,
+   -420px 0 #4B0082,
+   -425px 0 #4B0082,
+   -430px 0 #4B0082,
+   -435px 0 #4B0082,
+   -440px 0 #4B0082,
+   -445px 0 #4B0082,
+   -450px 0 #4B0082,
+   -455px 0 #4B0082,
+   -460px 0 #4B0082,
+   -465px 0 #4B0082,
+   -470px 0 #4B0082,
+   -475px 0 #4B0082,
+   -480px 0 #4B0082,
+   -485px 0 #4B0082,
+   -490px 0 #4B0082,
+   -495px 0 #4B0082,
+   -500px 0 #4B0082,
+   -505px 0 #4B0082,
+   -510px 0 #4B0082,
+   -515px 0 #4B0082,
+   -520px 0 #4B0082,
+   -525px 0 #4B0082,
+   -530px 0 #4B0082,
+   -535px 0 #4B0082,
+   -540px 0 #4B0082,
+   -545px 0 #4B0082;
+}
