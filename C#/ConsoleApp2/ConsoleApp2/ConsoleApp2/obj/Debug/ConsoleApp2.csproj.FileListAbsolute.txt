@@ -1,0 +1,14 @@
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.exe.config
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.exe
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.pdb
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Lab3.exe
+C:\Users\aniko\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Lab3.pdb
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.exe.config
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.exe
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\Lab3.pdb
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\Lab3.exe
+C:\Users\Sergey\Downloads\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\Lab3.pdb

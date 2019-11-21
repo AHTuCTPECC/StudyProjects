@@ -1,0 +1,7 @@
+B:\studio\pr2.2\pr2.2\pr2.2\bin\Debug\pr2.2.exe.config
+B:\studio\pr2.2\pr2.2\pr2.2\bin\Debug\pr2.2.exe
+B:\studio\pr2.2\pr2.2\pr2.2\bin\Debug\pr2.2.pdb
+B:\studio\pr2.2\pr2.2\pr2.2\obj\Debug\pr2.2.csprojAssemblyReference.cache
+B:\studio\pr2.2\pr2.2\pr2.2\obj\Debug\pr2.2.csproj.CoreCompileInputs.cache
+B:\studio\pr2.2\pr2.2\pr2.2\obj\Debug\pr2.2.exe
+B:\studio\pr2.2\pr2.2\pr2.2\obj\Debug\pr2.2.pdb
